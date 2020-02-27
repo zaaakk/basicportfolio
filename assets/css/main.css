@@ -1548,6 +1548,7 @@
 			opacity: 1;
 			overflow: hidden;
 			position: relative;
+			margin-bottom: 10px;
 		}
 
 			#main .thumb:after {
