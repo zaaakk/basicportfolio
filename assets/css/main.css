@@ -988,7 +988,7 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: rgba(36, 38, 41, 0.975);
+		background: color: #f0f0f0;
 		bottom: 4em;
 		left: 0;
 		max-height: calc(80vh - 4em);
@@ -1463,7 +1463,7 @@
 						-ms-transition: background-color 0.5s ease;
 						transition: background-color 0.5s ease;
 						border: 0;
-						color: #ffffff;
+						color: var(--main-text-color);
 						display: inline-block;
 						letter-spacing: 0.1em;
 						padding: 0 1.65em;
@@ -1471,7 +1471,7 @@
 					}
 
 						#header nav > ul > li a.icon:before {
-							color: ##f0f0f0;
+							
 							float: right;
 							margin-left: 0.75em;
 						}
