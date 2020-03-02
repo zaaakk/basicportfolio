@@ -36,8 +36,8 @@ layout: default
             <div>
                 <section>
                     <h2>{{ site.footer.name }}</h2>
-                    <p>{{ site.footer.bio }}</p>
-                    <p>{{ site.footer.github }}</p>
+                 
+                    <p>{{ site.footer.email }}</p>
                 </section>
                 <section>
                     <h2>Sponsor</h2>
@@ -107,21 +107,8 @@ layout: default
             </div>
             <div>
                 <section>
-                    <h2>Get in touch</h2>
-                    <form method="post" action="#">
-                        <div class="field half first">
-                            <input type="text" name="name" id="name" placeholder="Name"/>
-                        </div>
-                        <div class="field half">
-                            <input type="text" name="email" id="email" placeholder="Email"/>
-                        </div>
-                        <div class="field">
-                            <textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
-                        </div>
-                        <ul class="actions">
-                            <li><input type="submit" value="Send" class="special"/></li>
-                            <li><input type="reset" value="Reset"/></li>
-                        </ul>
+                    <h2>My Bio</h2>
+                      <p>{{ site.footer.bio }}</p>
                     </form>
                 </section>
             </div>
