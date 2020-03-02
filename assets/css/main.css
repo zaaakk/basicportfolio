@@ -1411,6 +1411,8 @@
 		user-select: none;
 		width: 100%;
 		z-index: 10002;
+		border-color: var(--main-text-color);
+		border-width: 1px;
 	}
 
 		body.loading #header {
@@ -1421,7 +1423,7 @@
 		}
 
 		#header h1 {
-			color: #a0a0a1;
+			color: var(--main-text-color);
 			display: inline-block;
 			font-size: 1em;
 			line-height: 1;
@@ -1469,7 +1471,7 @@
 					}
 
 						#header nav > ul > li a.icon:before {
-							color: #505051;
+							color: ##f0f0f0;
 							float: right;
 							margin-left: 0.75em;
 						}
@@ -1479,7 +1481,7 @@
 						}
 
 						#header nav > ul > li a.active {
-							background-color: #242629;
+							background-color: #a1a1a1;
 						}
 
 	@media screen and (max-width: 736px) {
