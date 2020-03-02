@@ -1,5 +1,5 @@
-# Photography ![OpenCollective](https://opencollective.com/photography/tiers/backer/badge.svg?label=backer&color=brightgreen)
-A jekyll website for photographers
+# Basic Portfolio![OpenCollective](https://opencollective.com/photography/tiers/backer/badge.svg?label=backer&color=brightgreen)
+A jekyll website for artists. Modified from Rampatra's photography site–the rest of the info here is his writing.
 
 ## Highlights
 1. Easy setup and you get a site of your own for __free__.
