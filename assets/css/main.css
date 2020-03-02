@@ -1401,7 +1401,7 @@
 		-moz-user-select: none;
 		-ms-user-select: none;
 		-webkit-user-select: none;
-		background: #1f2224;
+		background: var(--main-bg-color);
 		bottom: -1em;
 		height: 5em;
 		left: 0;
