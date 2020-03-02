@@ -1550,6 +1550,7 @@
 			overflow: hidden;
 			position: relative;
 			margin-bottom: 10px;
+			margin-top: 10px;
 		}
 
 			#main .thumb:after {
