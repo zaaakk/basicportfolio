@@ -10,7 +10,7 @@
 /* Reset */
 
 	:root {
-  --main-bg-color: white;
+  --main-bg-color: pink;
   --main-text-color:black;
 }	
 
@@ -1551,6 +1551,8 @@
 			position: relative;
 			margin-bottom: 10px;
 			margin-top: 10px;
+			padding-left: 5px;
+			padding-right: 5px;
 		}
 
 			#main .thumb:after {
