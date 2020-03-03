@@ -10,7 +10,7 @@
 /* Reset */
 
 	:root {
-  --main-bg-color: pink;
+  --main-bg-color: white;
   --main-text-color:black;
 }	
 
@@ -1549,10 +1549,11 @@
 			opacity: 1;
 			overflow: hidden;
 			position: relative;
-			margin-bottom: 10px;
+			margin: 10px;
+	/*		margin-bottom: 10px;
 			margin-top: 10px;
 			padding-left: 5px;
-			padding-right: 5px;
+			padding-right: 5px;*/
 		}
 
 			#main .thumb:after {
